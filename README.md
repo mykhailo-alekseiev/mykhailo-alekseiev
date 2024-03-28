@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in Estonia Fintech company.
+- 🌱 I’m currently learning AWS and Node.js
+- 💬 Ask me about React, Next.js, and frontend technologies
+- 📫 [Email me](mailto:m.alexeev2000@gmail.com)
+
 <!--
 **mykhailo-alekseiev/mykhailo-alekseiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
